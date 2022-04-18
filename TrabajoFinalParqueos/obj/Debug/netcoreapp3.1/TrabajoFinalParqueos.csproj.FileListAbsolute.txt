@@ -1,0 +1,13 @@
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\bin\Debug\netcoreapp3.1\TrabajoFinalParqueos.exe
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\bin\Debug\netcoreapp3.1\TrabajoFinalParqueos.deps.json
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\bin\Debug\netcoreapp3.1\TrabajoFinalParqueos.runtimeconfig.json
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\bin\Debug\netcoreapp3.1\TrabajoFinalParqueos.runtimeconfig.dev.json
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\bin\Debug\netcoreapp3.1\TrabajoFinalParqueos.dll
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\bin\Debug\netcoreapp3.1\TrabajoFinalParqueos.pdb
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\obj\Debug\netcoreapp3.1\TrabajoFinalParqueos.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\obj\Debug\netcoreapp3.1\TrabajoFinalParqueos.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\obj\Debug\netcoreapp3.1\TrabajoFinalParqueos.AssemblyInfo.cs
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\obj\Debug\netcoreapp3.1\TrabajoFinalParqueos.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\obj\Debug\netcoreapp3.1\TrabajoFinalParqueos.dll
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\obj\Debug\netcoreapp3.1\TrabajoFinalParqueos.pdb
+C:\Users\Nicolas\Documents\PUCMM\5to cuatrimestre\programacion\TrabajoFinalParqueos\obj\Debug\netcoreapp3.1\TrabajoFinalParqueos.genruntimeconfig.cache
